@@ -13,6 +13,18 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OTIxMjY1NmM5MTQ1ZDM4MzM0ZDQ3MzBkZDk0ZWJjYzBkYzRkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding Animation"  />
 </div>
 
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <img src="./images/Nikesh Headshots 1.jpg" height="200" alt="Nikesh Malik" style="border-radius: 50%; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="./images/Nikesh Headshots 2.jpg" height="200" alt="Nikesh Malik" style="border-radius: 50%; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="./images/Nikesh Headshots 3.jpg" height="200" alt="Nikesh Malik" style="border-radius: 50%; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="./images/Nikesh Headshots 4.jpg" height="200" alt="Nikesh Malik" style="border-radius: 50%; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </div>
+  <div style="margin-top: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Software+Engineer;AI%2FML+Expert;Automation+Specialist;Technical+Writer" alt="Typing SVG" />
+  </div>
+</div>
+
 ###
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -45,6 +57,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
+  <img src="https://n8n.io/favicon.ico" height="40" alt="n8n logo"  />
+  <img width="12" />
   
   <!-- Cloud & Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
@@ -66,6 +80,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
@@ -99,6 +119,8 @@
   <img src="https://img.shields.io/badge/LLM%20Specialist-4ECDC4?style=for-the-badge" alt="LLM Specialist" />
   <img src="https://img.shields.io/badge/Automation%20Engineer-FFA500?style=for-the-badge" alt="Automation Engineer" />
   <img src="https://img.shields.io/badge/Technical%20Writer-6B5B95?style=for-the-badge" alt="Technical Writer" />
+  <img src="https://img.shields.io/badge/Workflow%20Automation-00C7B7?style=for-the-badge" alt="Workflow Automation" />
+  <img src="https://img.shields.io/badge/SEO%20Specialist-FF4500?style=for-the-badge" alt="SEO Specialist" />
 </div>
 
 ## About Me
@@ -106,7 +128,7 @@
 I am an innovative software engineer and AI/ML expert with over 4 years of hands-on experience designing, developing, and deploying advanced solutions based on large language models (LLMs). My work is centered on automation, intelligent workflows, and pragmatic SEO—scraping and processing large volumes of data using Python and state-of-the-art APIs. 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM0YzFkMzM0ZDJmNDI1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l3vRmVMmY7dX6dLag/giphy.gif" width="500" alt="AI Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM0YzFkMzM0ZDJmNDI1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l3vRmVMmY7dX6dLag/giphy.gif" width="500" alt="AI Animation" />
 </div>
 
 I thrive on building scalable systems using Next.js, React, TypeScript, Firebase, and Google Cloud Platform, with a deep focus on integrating multiple AI models (including OpenAI, Claude, Llama, Cerebras, and Google Gemini) into comprehensive solutions.
@@ -116,7 +138,7 @@ I thrive on building scalable systems using Next.js, React, TypeScript, Firebase
 ## 🎓 Education
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/University_of_Birmingham_Logo.svg" height="100" alt="University of Birmingham Logo" />
+  <img src="./images/universtiy logo.jpeg" height="100" alt="University of Birmingham Logo" />
 </div>
 
 - **Masters in Advanced Computer Science**  
@@ -132,7 +154,9 @@ I thrive on building scalable systems using Next.js, React, TypeScript, Firebase
 *Remote, UK | Jan 2023 – Present*  
 
 <div align="center">
+  <img src="./images/penpxiel LLP Logo.png" height="100" alt="Penpixel LLP Logo" />
   <img src="https://img.shields.io/badge/Penpixel%20LLP-Founder%20%26%20Technical%20Lead-1a73e8?style=for-the-badge" alt="Penpixel LLP" />
+  <p><a href="https://penpixel.in" target="_blank">penpixel.in</a></p>
 </div>
 
 - **Leadership & Innovation:** Direct and drive the development of AI-powered tools that automate content creation, pragmatic SEO, and large-scale web scraping.
@@ -159,16 +183,25 @@ Worked with prestigious organizations including:
 ## 🚀 Major Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0ZDJmNDI1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Projects Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0ZDJmNDI1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Projects Animation" />
+</div>
+
+<div align="center">
+  <p style="font-size: 0.8em; color: #ff6b6b;">
+    <strong>⚠️ COPYRIGHT NOTICE:</strong> All projects and automation solutions mentioned below are subject to copyright and IP protection acts in India. Copying, replicating, or mimicking these ideas or software may result in legal complications.
+  </p>
 </div>
 
 ### 1. EMS System - iWay  
 *Technologies:* Next.js, Firebase, GCP  
 
 <div align="center">
+  <img src="./images/Iway ems logo.png" height="80" alt="iWay EMS Logo" />
+  <br>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+  <p><a href="https://ems.way2class.org" target="_blank">ems.way2class.org</a></p>
 </div>
 
 A robust Employee Management System designed for real-time task management, user authentication, and efficient data handling.
@@ -182,10 +215,13 @@ A robust Employee Management System designed for real-time task management, user
 *Technologies:* Next.js, React, Firebase, Groq API  
 
 <div align="center">
+  <img src="./images/Pixelwriters logo.png" height="80" alt="Pixel Writers Logo" />
+  <br>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Groq%20API-5A67D8?style=flat-square" alt="Groq API" />
+  <p><a href="https://pixelwriters.com" target="_blank">pixelwriters.com</a></p>
 </div>
 
 A comprehensive web platform that serves as both a content hub and an AI-driven SEO tool.
@@ -203,6 +239,7 @@ A comprehensive web platform that serves as both a content hub and an AI-driven 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square" alt="TrueNAS" />
+  <p><a href="https://way2class.com" target="_blank">way2class.com</a></p>
 </div>
 
 An EdTech platform with comprehensive admin panels and robust infrastructure.
@@ -216,6 +253,8 @@ An EdTech platform with comprehensive admin panels and robust infrastructure.
 *Technologies:* Python, Google Gemini API, FFmpeg  
 
 <div align="center">
+  <img src="./images/video transcription and translation model main page screen.png" height="150" alt="Gemini Video Translation" />
+  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
@@ -232,9 +271,22 @@ Automated system for translating and transcribing videos, enhancing content acce
 *Technologies:* Python, OpenAI API, Flask  
 
 <div align="center">
+  <img src="./images/news in pixel logo.jpg" height="80" alt="News in Pixel Logo" />
+  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <p>
+    <a href="https://www.instagram.com/newsinpixel.en/" target="_blank">Instagram</a> | 
+    <a href="https://www.linkedin.com/company/news-in-pixel" target="_blank">LinkedIn</a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Copyright%20Protected-FF0000?style=flat-square" alt="Copyright Protected" />
+    <img src="https://img.shields.io/badge/IP%20Protected-004D40?style=flat-square" alt="IP Protected" />
+  </p>
+  <p style="font-size: 0.8em; color: #ff6b6b; max-width: 600px; margin: 0 auto;">
+    <strong>⚠️ LEGAL NOTICE:</strong> This project is protected under the Indian Copyright Act, 1957 (Section 14) and Information Technology Act, 2000 (Section 43). The content generation algorithms, automation workflows, and associated intellectual property are registered under Penpixel LLP. Unauthorized reproduction, distribution, or implementation constitutes a punishable offense under IPC Section 63 with imprisonment up to 3 years and fines.
+  </p>
 </div>
 
 A project that automatically generates and posts news summaries in both Hindi and English.
@@ -242,7 +294,11 @@ A project that automatically generates and posts news summaries in both Hindi an
 - **Key Features:**  
   - Automated content creation and social media posting
   - Flask-based content management system
-  - Integration with [News in Pixel](https://www.linkedin.com/company/news-in-pixel/) platform
+  - Integration with News in Pixel platform
+
+<div align="center">
+  <img src="./images/news in pixel sample output 2.jpg" height="200" alt="News in Pixel Sample" />
+</div>
 
 ### 6. LLama 3.3 Vision-Based Alt Text Generation  
 *Technologies:* Python, Llama API  
@@ -276,13 +332,14 @@ Automated tools for Excel data processing and document grammar checking.
   - Workflow automation for document processing
 
 ### 8. Pragmatic SEO & Web Scraping Automation  
-*Technologies:* Python, BeautifulSoup, Selenium, Groq API  
+*Technologies:* Python, BeautifulSoup, Selenium, Groq API, n8n  
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square" alt="BeautifulSoup" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Groq%20API-5A67D8?style=flat-square" alt="Groq API" />
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=flat-square" alt="n8n" />
 </div>
 
 A high-scale system designed to scrape large volumes of web pages and optimize content for pragmatic SEO.
@@ -291,14 +348,18 @@ A high-scale system designed to scrape large volumes of web pages and optimize c
   - Data extraction from diverse websites
   - Automated content formatting and SEO enhancements
   - Large-scale data processing and analysis
+  - Workflow automation with n8n for seamless integration
 
 ### 9. Way2Packer - Packing and Moving Solution  
 *Technologies:* Next.js, Firebase, GCP  
 
 <div align="center">
+  <img src="./images/way2pakcers logo.png" height="80" alt="Way2Packers Logo" />
+  <br>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+  <p><a href="https://way2packers.com" target="_blank">way2packers.com</a></p>
 </div>
 
 A dynamic website for a packing and moving company featuring automation for booking, vehicle tracking, and logistical support.
@@ -307,6 +368,34 @@ A dynamic website for a packing and moving company featuring automation for book
   - Real-time tracking of vehicles and shipments
   - Integrated automation for scheduling and operational workflows
   - Customer booking and management system
+
+### 10. PixelBeats - AI Music Generation  
+*Technologies:* Python, TensorFlow, FFmpeg, YouTube API  
+
+<div align="center">
+  <img src="./images/pixelbeats logo.jpg" height="80" alt="PixelBeats Logo" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube API" />
+  <p><a href="https://www.youtube.com/@pixelbeats_yt5" target="_blank">YouTube Channel</a></p>
+  <p>
+    <img src="https://img.shields.io/badge/Copyright%20Protected-FF0000?style=flat-square" alt="Copyright Protected" />
+    <img src="https://img.shields.io/badge/IP%20Protected-004D40?style=flat-square" alt="IP Protected" />
+  </p>
+  <p style="font-size: 0.8em; color: #ff6b6b; max-width: 600px; margin: 0 auto;">
+    <strong>⚠️ LEGAL NOTICE:</strong> PixelBeats is protected under the Indian Copyright Act, 1957 (Section 14), Information Technology Act, 2000 (Section 43), and Indian Penal Code Section 406 (Criminal Breach of Trust). The AI music generation algorithms, devotional content, and associated intellectual property are registered under Penpixel LLP. Unauthorized reproduction or distribution constitutes a punishable offense with imprisonment up to 3 years and fines up to ₹200,000. All musical compositions are additionally protected under the Copyright (Amendment) Act, 2012.
+  </p>
+</div>
+
+AI-powered music generation platform focusing on devotional and motivational content, primarily Sanatan Dharma and Hinduism-themed rap-style songs telling stories about deities.
+
+- **Key Features:**  
+  - AI-generated devotional and spiritual music
+  - Rap-style storytelling about Hindu gods and mythology
+  - Growing YouTube channel with 5-10% monthly growth rate
+  - IP protected under Penpixel LLP
 
 ---
 
@@ -327,6 +416,7 @@ A dynamic website for a packing and moving company featuring automation for book
 - **Next.js** - Server-side rendering and static site generation
 - **Node.js** - Backend JavaScript runtime
 - **TensorFlow/PyTorch** - Machine learning model development and deployment
+- **n8n** - Workflow automation and integration
 
 ### AI/ML & Automation Tools
 - **OpenAI APIs** - GPT integration for natural language processing
@@ -348,9 +438,10 @@ A dynamic website for a packing and moving company featuring automation for book
 
 ### Additional Expertise
 - **Technical Writing** - Documentation, tutorials, and guides
-- **Workflow Automation** - Process optimization and efficiency
+- **Workflow Automation** - Process optimization and efficiency with n8n
 - **Pragmatic SEO** - Search engine optimization strategies
 - **Large-Scale Web Scraping** - Data extraction and processing
+- **IP & Copyright Protection** - Legal safeguarding of digital assets
 
 ---
 
@@ -371,5 +462,11 @@ A dynamic website for a packing and moving company featuring automation for book
 </div>
 
 ---
+
+<div align="center">
+  <p style="font-size: 0.8em; color: #ff6b6b;">
+    <strong>⚠️ LEGAL NOTICE:</strong> The specific projects "News in Pixel" and "PixelBeats" presented in this profile are protected under copyright and intellectual property laws as detailed in their respective sections. Other projects are subject to standard copyright protections.
+  </p>
+</div>
 
 *I continually strive to innovate and push the boundaries of automation and AI. Whether developing enterprise-grade systems or writing detailed technical content, I bring passion and precision to every project.*
