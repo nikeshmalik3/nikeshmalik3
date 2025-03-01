@@ -109,9 +109,8 @@
 
 <br clear="both">
 
-<div align="center">
 ![snake gif](https://github.com/nikeshmalik3/nikeshmalik3/blob/output/github-contribution-grid-snake.gif)
-</div>
+
 
 ###
 
