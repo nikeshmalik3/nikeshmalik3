@@ -18,14 +18,6 @@
 </div>
 
 <div align="center" style="margin: 40px 0;">
-  <div id="header" align="center">
-    <div class="image-container" style="position: relative; width: 250px; height: 250px; margin: 0 auto;">
-      <img src="./images/Nikesh Headshots 1.jpg" class="profile-img active" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); opacity: 1; transition: opacity 0.5s ease-in-out;" />
-      <img src="./images/Nikesh Headshots 2.jpg" class="profile-img" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); opacity: 0; transition: opacity 0.5s ease-in-out;" />
-      <img src="./images/Nikesh Headshots 3.jpg" class="profile-img" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); opacity: 0; transition: opacity 0.5s ease-in-out;" />
-      <img src="./images/Nikesh Headshots 4.jpg" class="profile-img" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); opacity: 0; transition: opacity 0.5s ease-in-out;" />
-    </div>
-  </div>
   <div style="margin-top: 20px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Software+Engineer;AI%2FML+Expert;Automation+Specialist;Technical+Writer" alt="Typing SVG" />
   </div>
@@ -117,7 +109,13 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/nikeshmalik3/nikeshmalik3/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikeshmalik3/nikeshmalik3/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikeshmalik3/nikeshmalik3/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nikeshmalik3/nikeshmalik3/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ###
 
@@ -162,8 +160,8 @@ I thrive on building scalable systems using Next.js, React, TypeScript, Firebase
 ### Penpixel LLP (Founder & Technical Lead)  
 *Remote, UK | Jan 2023 – Present*  
 
-<div align="center">
-  <img src="./images/penpxiel LLP Logo.png" height="100" alt="Penpixel LLP Logo" />
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; margin: 30px 0;">
+  <img src="./images/penpxiel LLP Logo.png" height="150" alt="Penpixel LLP Logo" style="margin: 0 auto;" />
   <img src="https://img.shields.io/badge/Penpixel%20LLP-Founder%20%26%20Technical%20Lead-1a73e8?style=for-the-badge" alt="Penpixel LLP" />
   <p><a href="https://penpixel.in" target="_blank">penpixel.in</a></p>
 </div>
