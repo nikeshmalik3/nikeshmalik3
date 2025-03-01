@@ -97,11 +97,11 @@
   <a href="https://www.linkedin.com/in/nikesh-jagdish-malik/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="tel:+447380549563">
-    <img src="https://img.shields.io/static/v1?message=UK:+44 7380 549563&logo=phone&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="UK phone"  />
+  <a href="https://wa.me/447380549563">
+    <img src="https://img.shields.io/static/v1?message=🇬🇧 UK: +44 7380 549563&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="UK phone"  />
   </a>
-  <a href="tel:+918693054729">
-    <img src="https://img.shields.io/static/v1?message=India:+91 8693 054729&logo=phone&label=&color=FF9933&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="India phone"  />
+  <a href="https://wa.me/918693054729">
+    <img src="https://img.shields.io/static/v1?message=🇮🇳 India: +91 8693 054729&logo=whatsapp&label=&color=FF9933&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="India phone"  />
   </a>
 </div>
 
@@ -111,10 +111,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikeshmalik3/nikeshmalik3/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikeshmalik3/nikeshmalik3/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nikeshmalik3/nikeshmalik3/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikeshmalik3/nikeshmalik3/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikeshmalik3/nikeshmalik3/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nikeshmalik3/nikeshmalik3/output/github-snake.svg" />
   </picture>
+  
+  <img src="https://raw.githubusercontent.com/nikeshmalik3/nikeshmalik3/output/ocean.gif" alt="github contribution grid snake animation" />
 </div>
 
 ###
@@ -132,13 +134,30 @@
 
 ## About Me
 
-I am an innovative software engineer and AI/ML expert with over 4 years of hands-on experience designing, developing, and deploying advanced solutions based on large language models (LLMs). My work is centered on automation, intelligent workflows, and pragmatic SEO—scraping and processing large volumes of data using Python and state-of-the-art APIs. 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM0YzFkMzM0ZDJmNDI1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l3vRmVMmY7dX6dLag/giphy.gif" width="500" alt="AI Animation" />
+<div align="center" style="margin: 40px 0;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OTIxMjY1NmM5MTQ1ZDM4MzM0ZDQ3MzBkZDk0ZWJjYzBkYzRkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" height="300" alt="Professional Coding" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 
-I thrive on building scalable systems using Next.js, React, TypeScript, Firebase, and Google Cloud Platform, with a deep focus on integrating multiple AI models (including OpenAI, Claude, Llama, Cerebras, and Google Gemini) into comprehensive solutions.
+As a seasoned Software Engineer and AI/ML Expert with over 4 years of hands-on experience, I bring a unique blend of technical expertise and innovative problem-solving capabilities to every project. My professional journey encompasses:
+
+🔹 **AI/ML Excellence**: Proven track record in designing and implementing advanced solutions using cutting-edge LLMs and AI technologies.
+
+🔹 **Technical Leadership**: Successfully led and delivered complex projects, demonstrating strong architectural decision-making and team management skills.
+
+🔹 **Innovation Focus**: Pioneered automation solutions that have significantly improved efficiency and reduced operational costs for multiple organizations.
+
+🔹 **Full-Stack Proficiency**: Expert in both frontend (React.js, Next.js) and backend (Node.js, Python) development, ensuring end-to-end solution delivery.
+
+🔹 **Cloud Architecture**: Extensive experience with GCP, AWS, and Firebase, designing scalable and resilient cloud infrastructures.
+
+What sets me apart:
+- Strong focus on delivering business value through technology
+- Proven ability to lead and mentor technical teams
+- Track record of successful project delivery in high-pressure environments
+- Expertise in the latest AI/ML technologies and their practical applications
+- Commitment to code quality and best practices
+
+I'm passionate about leveraging technology to solve complex business challenges and am always eager to take on new opportunities that push the boundaries of what's possible with modern technology.
 
 ---
 
@@ -161,7 +180,9 @@ I thrive on building scalable systems using Next.js, React, TypeScript, Firebase
 *Remote, UK | Jan 2023 – Present*  
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; margin: 30px 0;">
-  <img src="./images/penpxiel LLP Logo.png" height="150" alt="Penpixel LLP Logo" style="margin: 0 auto;" />
+  <div style="text-align: center; width: 100%;">
+    <img src="./images/penpxiel LLP Logo.png" height="150" alt="Penpixel LLP Logo" style="margin: 0 auto; display: block;" />
+  </div>
   <img src="https://img.shields.io/badge/Penpixel%20LLP-Founder%20%26%20Technical%20Lead-1a73e8?style=for-the-badge" alt="Penpixel LLP" />
   <p><a href="https://penpixel.in" target="_blank">penpixel.in</a></p>
 </div>
@@ -455,12 +476,23 @@ AI-powered music generation platform focusing on devotional and motivational con
 ## 📫 Contact
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QTfX9Ejfra3ZmNxh6D/giphy.gif" width="300" alt="Contact Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YzQ0YzM1ZDM4ZDM1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QTfX9Ejfra3ZmNxh6D/giphy.gif" width="300" alt="Contact Animation" style="border-radius: 10px; margin: 20px 0;" />
 </div>
 
-- **Email:** [nikeshmalik66@gmail.com](mailto:nikeshmalik66@gmail.com)  
-- **LinkedIn:** [Nikesh Jagdish Malik](https://www.linkedin.com/in/nikesh-jagdish-malik/)
-- **Phone:** +447380549563
+<div align="center" style="margin: 20px 0;">
+  <a href="mailto:nikeshmalik66@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nikesh-jagdish-malik/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/447380549563">
+    <img src="https://img.shields.io/static/v1?message=🇬🇧 UK: +44 7380 549563&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="UK phone"  />
+  </a>
+  <a href="https://wa.me/918693054729">
+    <img src="https://img.shields.io/static/v1?message=🇮🇳 India: +91 8693 054729&logo=whatsapp&label=&color=FF9933&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="India phone"  />
+  </a>
+</div>
 
 ---
 
