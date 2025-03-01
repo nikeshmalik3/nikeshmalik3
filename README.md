@@ -3,22 +3,28 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikeshmalik3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikeshmalik3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikeshmalik3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&custom_title=Nikesh's%20GitHub%20Stats%20(A+)" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikeshmalik3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false&custom_title=Most%20Used%20Languages" height="180" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikeshmalik3&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OTIxMjY1NmM5MTQ1ZDM4MzM0ZDQ3MzBkZDk0ZWJjYzBkYzRkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding Animation"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM0OTIxMjY1NmM5MTQ1ZDM4MzM0ZDQ3MzBkZDk0ZWJjYzBkYzRkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" height="300" alt="Coding Animation"  />
 </div>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-    <img src="./images/Nikesh Headshots 1.jpg" height="200" alt="Nikesh Malik" style="border-radius: 50%; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    <img src="./images/Nikesh Headshots 2.jpg" height="200" alt="Nikesh Malik" style="border-radius: 50%; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    <img src="./images/Nikesh Headshots 3.jpg" height="200" alt="Nikesh Malik" style="border-radius: 50%; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    <img src="./images/Nikesh Headshots 4.jpg" height="200" alt="Nikesh Malik" style="border-radius: 50%; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+<div align="center" style="margin: 40px 0;">
+  <div id="header" align="center">
+    <div class="image-container" style="position: relative; width: 250px; height: 250px; margin: 0 auto;">
+      <img src="./images/Nikesh Headshots 1.jpg" class="profile-img active" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); opacity: 1; transition: opacity 0.5s ease-in-out;" />
+      <img src="./images/Nikesh Headshots 2.jpg" class="profile-img" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); opacity: 0; transition: opacity 0.5s ease-in-out;" />
+      <img src="./images/Nikesh Headshots 3.jpg" class="profile-img" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); opacity: 0; transition: opacity 0.5s ease-in-out;" />
+      <img src="./images/Nikesh Headshots 4.jpg" class="profile-img" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); opacity: 0; transition: opacity 0.5s ease-in-out;" />
+    </div>
   </div>
   <div style="margin-top: 20px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Software+Engineer;AI%2FML+Expert;Automation+Specialist;Technical+Writer" alt="Typing SVG" />
@@ -100,7 +106,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="tel:+447380549563">
-    <img src="https://img.shields.io/static/v1?message=+447380549563&logo=phone&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="phone logo"  />
+    <img src="https://img.shields.io/static/v1?message=UK:+44 7380 549563&logo=phone&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="UK phone"  />
+  </a>
+  <a href="tel:+918693054729">
+    <img src="https://img.shields.io/static/v1?message=India:+91 8693 054729&logo=phone&label=&color=FF9933&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="India phone"  />
   </a>
 </div>
 
@@ -108,7 +117,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/nikeshmalik3/nikeshmalik3/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
